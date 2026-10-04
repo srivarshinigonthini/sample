@@ -1,0 +1,10 @@
+venv/
+Dataset/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+users.db
+stored_records/
+dfu_hybrid_model.keras
+*.pdf
+reports/
